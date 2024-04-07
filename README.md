@@ -1,5 +1,6 @@
 # Stellar-Offline-Multisig
 Standalone Stellar Network Offline Multisig Tool packaged alongside Ian Coleman's BIP39 Mnemonic Code Converter.
+
 Multisig is an added security layer to your wallet, requiring extra signature/s for transactions to be validated by the network.
 
 ## Uses:
