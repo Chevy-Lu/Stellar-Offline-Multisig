@@ -17,6 +17,13 @@ This software is licensed under the [MIT LICENSE](https://github.com/Chevy-Lu/St
 - Set up multisig with your own keypair, not one by a third party generated in a connected environment.
 - A wallet with multisig enabled will keep your funds safe even if your wallet gets compromised.
 
+## Screenshots:
+
+![Screenshot from 2024-04-08 08-20-58](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/5e3b87c8-9759-4e4d-9ff7-e9de50d2a49b)
+
+![Screenshot from 2024-04-08 08-23-15](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/cdc8b827-1a27-40e6-a9a4-9b47a972de01)
+
+
 ## How to enable multisig in your wallet
 
 WARNING: Make sure you have the secret key to the public key being added as a second signer. Otherwise your account will be locked indefinitely.
@@ -33,15 +40,15 @@ You can get keypairs using the [Stellar Offline Multisig Tool](https://github.co
 #
 
 ![Screenshot from 2024-04-08 01-20-21](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/5febf202-ab92-45f5-a953-31b5287707da)
-#
+
 ![Screenshot from 2024-04-08 01-27-19](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/c0a4abc3-8206-4309-8afb-982f710a47b0)
-#
+
 ![Screenshot from 2024-04-08 03-18-54](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/c7d1d9a5-54a2-42d9-9ec4-58775de405eb)
-#
+
 ![Screenshot from 2024-04-08 03-20-33](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/0729c26c-4374-424d-bdb8-cc6a7c854a85)
-#
+
 ![Screenshot from 2024-04-08 03-21-15](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/7315d1a3-2468-4c19-9e05-e120850b6761)
-#
+
 ![Screenshot from 2024-04-08 03-22-45](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/091fb05e-49db-4102-8e65-320e306b52ea)
 
 #
@@ -51,9 +58,9 @@ Now that multisig is enabled in your wallet let's make a test transaction to mak
 #
 
 ![Screenshot from 2024-04-08 05-04-17](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/ff93e573-7846-4684-a999-01d57b61fca8)
-#
+
 ![Screenshot from 2024-04-08 05-05-08](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/cefb075c-e67a-4bc2-9437-2c8571f0b5cc)
-#
+
 ![Screenshot from 2024-04-08 05-05-40](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/d2ebe5f3-f7c0-4cda-87de-de01f183306e)
 
 #
@@ -63,7 +70,7 @@ Let's paste the copied XDR into the [Stellar Offline Multisig Tool](https://gith
 #
 
 ![Screenshot from 2024-04-08 05-12-57](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/97817bd4-4a41-4b9e-9016-bbd812f7b762)
-#
+
 ![Screenshot from 2024-04-08 05-14-44](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/5f4e24e7-8cc6-4372-95be-166905ae48e6)
 
 #
