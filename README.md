@@ -16,6 +16,7 @@ This software is licensed under the [MIT LICENSE](https://github.com/Chevy-Lu/St
 - Enables the user to be their own multisig service provider.
 - Set up multisig with your own keypair, not one by a third party generated in a connected environment.
 - A wallet with multisig enabled will keep your funds safe even if your wallet gets compromised.
+- This is a satandalone tool, it can run just using an internet browser.
 
 ## Screenshots:
 
