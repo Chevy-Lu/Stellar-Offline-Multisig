@@ -32,6 +32,22 @@ You can get keypairs using the [Stellar Offline Multisig Tool](https://github.co
 
 #
 
+### Using StellarX
+
+#
+
+![stellarx-banner](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/168b8504-1760-4bc2-b097-b7f0c33ae495)
+
+![Screenshot from 2024-04-08 19-49-44](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/6c867616-67a7-4de0-b50b-6486e466984c)
+
+![Screenshot from 2024-04-08 19-50-49](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/d4c64193-616a-40a5-813a-326ebb9f30bf)
+
+![Screenshot from 2024-04-08 19-52-40](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/09d34f85-0466-4cd5-a4ec-cadb0761649f)
+
+![Screenshot from 2024-04-08 19-53-01](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/4c81e306-8d47-4cf4-8a84-266ca8d242ae)
+
+![Screenshot from 2024-04-08 19-54-08](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/929614b4-f74f-443d-8be1-61dee0235e78)
+
 ### Using Lobstr Wallet
 
 #
@@ -50,57 +66,13 @@ You can get keypairs using the [Stellar Offline Multisig Tool](https://github.co
 
 ![Screenshot from 2024-04-08 03-21-15](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/7315d1a3-2468-4c19-9e05-e120850b6761)
 
-![Screenshot from 2024-04-08 03-22-45](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/091fb05e-49db-4102-8e65-320e306b52ea)
+![Screenshot from 2024-04-08 03-22-45](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/591dd18d-03ca-4d40-8467-75f81c3cf6b9)
 
 #
 
-Now that multisig is enabled in your wallet let's make a test transaction to make sure it is working properly. (may need to log-out and back in after enabling multisig)
 
-#
 
-![Screenshot from 2024-04-08 05-04-17](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/ff93e573-7846-4684-a999-01d57b61fca8)
 
-![Screenshot from 2024-04-08 05-05-08](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/cefb075c-e67a-4bc2-9437-2c8571f0b5cc)
-
-![Screenshot from 2024-04-08 05-05-40](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/d2ebe5f3-f7c0-4cda-87de-de01f183306e)
-
-#
-
-Let's paste the copied XDR into the [Stellar Offline Multisig Tool](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/releases) and input the keypair. REMINDER: this step needs to be done offline for security reasons.
-
-#
-
-![Screenshot from 2024-04-08 05-12-57](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/97817bd4-4a41-4b9e-9016-bbd812f7b762)
-
-![Screenshot from 2024-04-08 05-14-44](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/5f4e24e7-8cc6-4372-95be-166905ae48e6)
-
-#
-
-Lastly let's submit it to the network using the [Stellar Transaction Submitter](https://github.com/Chevy-Lu/Stellar-Transaction-Submitter). Copy the signed XDR into a USB Flash Drive and transfer it to an online computer. Then paste the signed transaction XDR into [Stellar Transaction Submitter](https://github.com/Chevy-Lu/Stellar-Transaction-Submitter) and submit it to the network.
-
-#
-![Screenshot from 2024-04-08 05-18-55](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/b3f71400-9012-4d32-b520-d6a9fc78562f)
-#
-It could take up to six seconds to received feedback from the network.
-#
-![Screenshot from 2024-04-08 05-20-35](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/665423b0-519b-4be8-8d9f-3ccb0da9e300)
-
-#
-
-### Using StellarX
-
-#
-
-![stellarx-banner](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/168b8504-1760-4bc2-b097-b7f0c33ae495)
-
-In progress...
-
-#
-
-### Using StellarTerm
-TBA
-
-#
 
 
 
