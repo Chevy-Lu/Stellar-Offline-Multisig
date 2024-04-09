@@ -60,8 +60,6 @@ You can get keypairs using the [Stellar Offline Multisig Tool](https://github.co
 
 ![Screenshot from 2024-04-08 01-27-19](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/c0a4abc3-8206-4309-8afb-982f710a47b0)
 
-![Screenshot from 2024-04-08 03-18-54](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/c7d1d9a5-54a2-42d9-9ec4-58775de405eb)
-
 ![Screenshot from 2024-04-08 03-20-33](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/0729c26c-4374-424d-bdb8-cc6a7c854a85)
 
 ![Screenshot from 2024-04-08 03-21-15](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/7315d1a3-2468-4c19-9e05-e120850b6761)
@@ -70,9 +68,20 @@ You can get keypairs using the [Stellar Offline Multisig Tool](https://github.co
 
 #
 
+## Signing Transactions 
 
+Now that you have multisig enabled in your wallet every single time you send a transaction you'll be presented with a pre-signed transaction XDR. This is what you need to input into the [Stellar Offline Multisig Tool](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/releases) in order to sign it offline with your extra signature.
 
+This is how a transaction XDR looks like:
 
+![Screenshot from 2024-04-08 19-59-14](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/da924f6a-f149-4f34-b211-03f94ab08d49)
 
+Copy & Paste it into the "Transaction XDR:" textarea and sign.
 
+![Screenshot from 2024-04-08 20-00-22](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/ae6869dc-324e-4a09-9f11-29bea1b22fb4)
+
+## Submitting Transactions to the Network
+Copy your signed transaction XDR and paste it into the [Stellar Transaction Submitter Tool](https://github.com/Chevy-Lu/Stellar-Transaction-Submitter) and submit. Transaction feedback can take up to six seconds.
+
+![Screenshot from 2024-04-08 20-02-03](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/f0da531f-884f-416a-bbd8-ab846460ac1f)
 
