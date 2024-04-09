@@ -30,7 +30,7 @@ This software is licensed under the [MIT LICENSE](https://github.com/Chevy-Lu/St
 WARNING: Make sure you have the secret key to the public key being added as a second signer. Otherwise your account will be locked indefinitely.
 You can get keypairs using the [Stellar Offline Multisig Tool](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/releases) in an offline environment or a hardware wallet in air-gapped mode then wipe the device after recording your new seed phrase. Then in an offline computer e.g. [Tails OS](https://tails.net/) input your new seed phrase into the [Stellar Offline Multisig Tool](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/releases) to get your keypairs. Is a good practice enabling multisig to a wallet with little funds until a successful test transaction has been achieved. Do not add a signature from the same seed phrase as the wallet, doing so defeats the purpose of multisig.
 
-#
+
 
 ### Using StellarX
 
