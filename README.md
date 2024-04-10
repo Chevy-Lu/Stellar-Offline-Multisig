@@ -73,8 +73,7 @@ You can get keypairs using the [Stellar Offline Multisig Tool](https://github.co
 Now that you have multisig enabled in your wallet every single time you send a transaction you'll be presented with a pre-signed transaction XDR. This is what you need to input into the [Stellar Offline Multisig Tool](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/releases) in order to sign it offline with your extra signature.
 
 This is how a transaction XDR looks like:
-
-![Screenshot from 2024-04-08 19-59-14](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/da924f6a-f149-4f34-b211-03f94ab08d49)
+![Screenshot from 2024-04-08 19-59-14](https://github.com/Chevy-Lu/Stellar-Offline-Multisig/assets/31299824/b1c69a68-aba4-47b9-bb18-e68d0e95e95c)
 
 Copy & Paste it into the "Transaction XDR:" textarea and sign.
 
